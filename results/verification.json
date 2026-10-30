@@ -1,0 +1,12 @@
+{
+  "participants": 15,
+  "direct_distances": 60,
+  "centroid_distances": 75,
+  "printed_table4_matches": true,
+  "printed_table5_matches": true,
+  "workbook_wilcoxon_matches": true,
+  "corpus_news_items": 105,
+  "significant_transitions": [
+    "P1->P2"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "article_id": "1877314",
+  "article_doi": "10.3389/fcomp.2026.1877314",
+  "prepared_on": "2026-10-30",
+  "version": "0.1.0",
+  "source_workbooks": [
+    {
+      "filename": "textual_metrics_results.xlsx",
+      "sha256": "02534826199ba0409ddbb157a09ce53157b61e2f9d076f4b30d7195256688176"
+    },
+    {
+      "filename": "resumen_analisis_mensual.xlsx",
+      "sha256": "2143815899d56a8f61fd4fba4ebcb98f3af777c699a320a7676f021f8df5f670"
+    }
+  ],
+  "public_content": "numeric and aggregate exports only; no participant documents, free text, email addresses, or identity crosswalks",
+  "participant_id_rule": "P01-P15 preserve workbook numeric row order without a mapping to personal names",
+  "omitted_source_material": [
+    "participant submission documents and filenames",
+    "cleaned prompt free text",
+    "original complete workbook",
+    "unrelated scripts",
+    "video not located",
+    "complete 105-article URL list not supplied"
+  ],
+  "original_embedding_pipeline_available": false,
+  "scope": "reproduce descriptive summaries and paired centroid-distance Wilcoxon tests from author-exported numerical arrays",
+  "analysis_script_origin": "New numerical verification code prepared for this repository; not the recovered historical embedding pipeline"
+}
